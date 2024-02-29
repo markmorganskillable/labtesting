@@ -3,8 +3,8 @@
   "messages": [
       {
       "id": "TestOne",
-      "summary": "This is the <strong>TestOne</strong> notification.",
-      "details": "This is the body of the <strong>TestOne</strong> notification. The more detailed message should be entered here.",
+      "summary": "This is the <strong>TestOne</strong> notification searching for <strong>Microsoft</strong>.",
+      "details": "This is the body of the <strong>TestOne</strong> notification searching for <strong>Microsoft</strong>. The more detailed message should be entered here.",
       "type": "help",
       "queryString": "Microsoft",
       "startDate": "2/1/2024",
@@ -12,12 +12,21 @@
       },        
       {
       "id": "TestTwo",
-      "summary": "This is the <strong>TestTwo</strong> notification.",
-      "details": "This is the body of the <strong>TestTwo</strong> notification. The more detailed message should be entered here.",
+      "summary": "This is the <strong>TestTwo</strong> notification with a blank search.",
+      "details": "This is the body of the <strong>TestTwo</strong> notification with a blank search. It should appear everywhere. The more detailed message should be entered here.",
       "type": "alert",
       "queryString": "",
       "startDate": "2/1/2024",
       "endDate": "3/1/2024"
+      },        
+      {
+      "id": "MJMTest",
+      "summary": "This is a test to find a regex based query <strong>Mark J Morgan.*AWS</strong> in the lab text.",
+      "details": "This will search for <strong>Mark J Morgan.*AWS</strong> in the lab text using regex syntax.",
+      "type": "note",
+      "queryString": "Mark J Morgan.*AWS",
+      "startDate": "",
+      "endDate": ""
       },        
       {
       "id": "AzureWelcome",
