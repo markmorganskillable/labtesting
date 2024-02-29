@@ -4,11 +4,11 @@
       {
       "id": "TestOne",
       "summary": "This is the <strong>TestOne</strong> notification.",
-      "details": "Microsoft has added a new <strong>Welcome to Microsoft Azure</strong> screen when you initially log in to the Azure Portal.<br><br>We are actively making updates to reflect this change. However, if you see this screen appear, you may select <strong>Cancel</strong> to dismiss the screen.",
+      "details": "This is the body of the <strong>TestOne</strong> notification. The more detailed message should be entered here.",
       "type": "help",
       "queryString": "Microsoft",
       "startDate": "2/1/2024",
-      "endDate": "2/29/2024"
+      "endDate": "3/1/2024"
       },        
       {
       "id": "TestTwo",
@@ -17,7 +17,7 @@
       "type": "alert",
       "queryString": "",
       "startDate": "2/1/2024",
-      "endDate": "2/29/2024"
+      "endDate": "3/1/2024"
       },        
       {
       "id": "AzureWelcome",
