@@ -18,16 +18,7 @@
       "queryString": "",
       "startDate": "2/1/2024",
       "endDate": "3/1/2024"
-      },        
-      {
-      "id": "MJMTest",
-      "summary": "This is a test to find a regex based query <strong>Mark J Morgan.*AWS</strong> in the lab text.",
-      "details": "This will search for <strong>Mark J Morgan.*AWS</strong> in the lab text using regex syntax.",
-      "type": "note",
-      "queryString": "Mark J Morgan.*AWS",
-      "startDate": "",
-      "endDate": ""
-      },        
+      },             
       {
       "id": "AzureWelcome",
       "summary": "You may dismiss the <strong>Welcome to Microsoft Azure</strong> screen.",
