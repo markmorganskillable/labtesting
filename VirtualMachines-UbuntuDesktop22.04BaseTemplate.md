@@ -3,8 +3,6 @@
 <br>
 #### LAMP VM
 
-- Testing
-
 - Configuration:
 
     | Item | Detail |
