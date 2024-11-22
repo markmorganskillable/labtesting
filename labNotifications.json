@@ -33,7 +33,7 @@
       "summary": "AWS is actively updating their console.",
       "details": "AWS recently updated several portions of the AWS console/products.  As a result, some lab steps and screenshots may not reflect the latest AWS updates. We are actively working to update our labs to account for these changes.",
       "type": "note",
-      "queryString": " aws |\.aws\.|^aws",
+      "queryString": "aws",
       "startDate": "",
       "endDate": ""
       }	  
