@@ -1,10 +1,10 @@
 window.strings = {
-	"elements": {
-		"excelled": "Areas where you excelled",
-		"growth": "Areas where you have room to grow",
-		"title": "Assessments",
-		"feedback": "Challenge Labs Feedback"
-	}
+    "elements": {
+	    "excelled": "Areas where you excelled",
+	    "growth": "Areas where you have room to grow",
+	    "title": "Assessments",
+	    "feedback": "Challenge Labs Feedback"
+	},
     "summary": [
         {
             "maxScore": 100,
